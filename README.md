@@ -1,0 +1,2 @@
+# PromptManager
+全程完全由cursor开发的基于本地MongoDB,用python实现的PromptManager。用于存储和优化prompt。
