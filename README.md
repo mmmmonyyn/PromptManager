@@ -1,2 +1,2 @@
 # PromptManager
-全程完全由cursor开发的基于本地MongoDB,用python实现的PromptManager。用于存储和优化prompt。
+全程完全由cursor开发的管理prompt,支持AI优化prompt的prompt管理器 Chrome插件 ，可以进行prompt的增删改查和优化。
